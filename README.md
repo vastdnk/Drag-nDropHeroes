@@ -1,2 +1,2 @@
-# Drag-nDropHeroes
-Drag'nDrop Heroes Game
+# Drag-n-DropHeroes
+Drag'n'Drop Heroes Game
